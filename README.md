@@ -32,7 +32,7 @@ When any one come asking for food through our app MALSATA implemented at every p
 
 ## Demo video
 
-[![Watch the video] (./images/thumbnail.png)](https://youtu.be/qogeu5SdGBE)
+[![Watch the video](./images/thumbnail.png)](https://youtu.be/qogeu5SdGBE)
 
 ## Long description
 
