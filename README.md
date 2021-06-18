@@ -20,7 +20,7 @@ Let us make the world hunger free using Project MALSATA
 
 ### What's the problem?
 
-We the team 'Agasthyas'introduce an app named 'MALSATA' to solve the problem. Millions of People die because of hunger.Hunger is the worstest situation ever we face today. It is a stage of lack of food. The main cause of hunger worldwide is poverty.
+We the team 'Agasthyas' introduce an app named 'MALSATA' to solve the problem. Millions of People die because of hunger.Hunger is the worstest situation ever we face today. It is a stage of lack of food. The main cause of hunger worldwide is poverty.
 
 ### How can our technology help?
 
