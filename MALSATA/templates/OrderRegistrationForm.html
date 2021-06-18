@@ -1,0 +1,21 @@
+<html>
+		<head>
+		<title>MALSATA</title>
+	</head>
+	<center>
+	<h1 style = "color:red;">MALSATA</h1>
+	<h2 style = "color:blue;">LETS US MAKE THE WORLD HUNGER FREE</h2>
+	<h2 style = "color:green;">New Order Registration</h2>
+	</center>
+	<body bgcolor="#BEBEBF" >
+		<br /><br /><br />
+	<form action="/details/OrderRegistration/" method="POST">
+	<table align = 'center'>
+		{% csrf_token %}
+		{{OrderRegistrationForm.as_table}}
+		<tr> <td colspan = "2" align = "center"> <input type="submit" value="SUBMIT" /> </td> </tr>		
+	</table>
+	<input type="hidden" name="hd_id" value="0" id="hd_id">
+	</form>
+</body>
+</html>
